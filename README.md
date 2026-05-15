@@ -1,5 +1,5 @@
-                      Hi there  👋, I'm Meron Abraha
-                Full Stack Developer/Mobile App Developer
+                     #Hi there  👋, I'm Meron Abraha
+                ## Full Stack Developer/Mobile App Developer
 
 ## About Me 🚀
 I'm a passionate and continuously growing Software Engineer, Full Stack Developer and Mobile App Developer with a strong interest in building modern, responsive, and user-centered applications. I enjoy transforming ideas into functional digital solutions while focusing on clean design, performance, and user experience.
