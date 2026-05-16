@@ -23,7 +23,7 @@ Currently, I am expanding my skills in modern web and mobile technologies, conti
 
 ## Languages and Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=HTML,CSS,vue,react,nodejs,js,ts,python,java,mysql,mongodb,tailwind,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,python,java,mysql,mongodb,tailwind,figma,git,github,vscode,antigravity,stitch" />
 </p>
 
 ## Featured Projects 💻
