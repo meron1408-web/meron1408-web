@@ -1,47 +1,99 @@
 <h1 align="center">Hi 👋, I'm Meron</h1>
 
-<h2 align="center">
+<h3 align="center">
 Full Stack Developer | Mobile App Developer
-</h2>                     
-  
+</h3>
 
-## About Me 🚀
-I'm a passionate and continuously growing Software Engineer, Full Stack Developer and Mobile App Developer with a strong interest in building modern, responsive, and user-centered applications. I enjoy transforming ideas into functional digital solutions while focusing on clean design, performance, and user experience.
-Currently, I am expanding my skills in modern web and mobile technologies, continuously learning new tools, frameworks, and development practices to improve my expertise. I am highly motivated to collaborate with diverse teams, solve real-world problems, and contribute to innovative and impactful software projects.
-
-* 🌱 Currently Learning:  Vue.js application development, modern frontend architecture, responsive web design, TypeScript integration, and advanced UI/UX development practices to build scalable and high-performance applications.
-
-* 🔭 Currently Working On: TRC (Tigray Resource Center) Project, where I focus on developing responsive user interfaces, improving user experience, implementing modern frontend solutions, and collaborating within an agile software development environment.
-
-* 🌍 Languages & Technologies: TypeScript, Java, React, JavaScript, HTML5, CSS3, Tailwind CSS, Vue.js, GitHub, Git, Figma, and modern frontend development tools and workflows.
-
-* 📫 Contact & Collaboration: Feel free to connect with me through GitHub or via email at meron1408@gmail.com
-
-* ⚡ Fun Fact: I’m passionate about transforming creative ideas and UI/UX concepts into visually appealing, responsive, and interactive digital experiences while continuously learning and exploring new technologies in software engineering and mobile application development.
-* 📱 Building modern mobile applications
-  🧠 Problem Solving & Clean Code
-
-## Languages and Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,python,java,mysql,mongodb,tailwind,figma,git,github,vscode,antigravity,stitch" />
+Passionate about building modern web and mobile applications with clean UI and scalable backend systems.
 </p>
 
-## Featured Projects 💻
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-📚 Tigray Resource Center
+---
 
-A digital archive and resource management system focused on organizing educational and historical resources. You can check out the repository.(project_1_repository_link).
+## 🌐 Connect With Me
 
-✅ Task Management App
+<p align="left">
+<a href="https://github.com/meron1408-web" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 
-A clean and functional task management application with responsive UI and filtering features.You can check out the repository [here](project_2_repository_link).
+<a href="https://linkedin.com/in/MeronAbraha" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-📫 Contact Me
+<a href="mailto:meron1408@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
-📧 Email: meron1408@gmail.com
-💼 LinkedIn: linkedin.com/in/meronabraha
-💻 GitHub: github.com/meron1408-web
+---
 
+## 🚀 Portfolio
+
+🔗 [View My Portfolio](https://meron.com)
+
+---
+
+## 💻 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,express,js,ts,java,python,php,mysql,mongodb,tailwind,bootstrap,figma,git,github,vscode,postman,firebase&perline=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Vue.js
+- Scalable Backend Architecture
+- Mobile App Development
+- Modern UI/UX Design
+
+---
+
+## 🔭 Current Projects
+
+- Full Stack Web Applications
+- Portfolio Projects
+- Responsive Dashboards
+- API Integrations
+
+---
+
+## ⚡ About Me
+
+- 💡 I enjoy solving real-world problems with technology
+- 🎨 I love clean and modern UI design
+- 🚀 Passionate about continuous learning
+- 🤝 Open to collaboration and new opportunities
+
+---
+
+## 📫 Reach Me
+
+📧 meronabraha5464@gmail.com
 
 
 
