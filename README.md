@@ -34,7 +34,7 @@ Passionate about building modern web and mobile applications with clean UI and s
 
 ## 🚀 Portfolio
 
-🔗 [View My Portfolio](https://meron.com)
+
 
 ---
 
