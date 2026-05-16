@@ -8,6 +8,10 @@ Full Stack Developer | Mobile App Developer
 Passionate about building modern web and mobile applications with clean UI and scalable backend systems.
 </p>
 
+## About Me 🚀
+I'm a passionate Software Engineer, Full Stack Developer and Mobile App Developer with an interest in building modern, responsive, and user-centered applications. I enjoy transforming ideas into functional digital solutions while focusing on clean design, performance, and user experience.
+Currently, I am expanding my skills in modern web and mobile technologies, continuously learning new tools, frameworks, and development practices to improve my expertise.and am Open to collaboration and new opportunities with diverse teams, solve real-world problems, and contribute to innovative and impactful software projects.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
@@ -79,17 +83,6 @@ Passionate about building modern web and mobile applications with clean UI and s
 - Portfolio Projects
 - Responsive Dashboards
 - API Integrations
-
----
-
-## ⚡ About Me
-
-- 💡 I enjoy solving real-world problems with technology
-- 🎨 I love clean and modern UI design
-- 🚀 Passionate about continuous learning
-- 🤝 Open to collaboration and new opportunities
-
----
 
 ## 📫 Reach Me
 
