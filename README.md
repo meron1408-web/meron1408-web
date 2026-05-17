@@ -37,7 +37,7 @@ Currently, I am expanding my skills in modern web and mobile technologies, conti
 ---
 
 ## 🚀 Portfolio
- http://localhost:5173/meron portfolio
+
 
 
 ---
