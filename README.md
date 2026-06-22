@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meron</h1>
 
 <h3 align="center">
-Full Stack Developer | Mobile App Developer
+Front-end Developer | Mobile App Developer
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Passionate about building modern web and mobile applications with clean UI and s
 </p>
 
 ## About Me 🚀
-I'm a passionate Software Engineer, Full Stack Developer and Mobile App Developer with an interest in building modern, responsive, and user-centered applications. I enjoy transforming ideas into functional digital solutions while focusing on clean design, performance, and user experience.
+I'm a passionate Software Engineer, Front-end Developer and Mobile App Developer with an interest in building modern, responsive, and user-centered applications. I enjoy transforming ideas into functional digital solutions while focusing on clean design, performance, and user experience.
 Currently, I am expanding my skills in modern web and mobile technologies, continuously learning new tools, frameworks, and development practices to improve my expertise.and am Open to collaboration and new opportunities with diverse teams, solve real-world problems, and contribute to innovative and impactful software projects.
 
 <p align="center">
